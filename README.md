@@ -7,4 +7,7 @@ en los mismos archivos al mismo tiempo.
 
 ### ¿Cómo funcionan Git y GitHub de manera conjunta?  
 Al cargar archivos en GitHub, los almacenarás en un _"repositorio de Git"_. Esto significa que al realizar cambios (o confimaciones) en los archivos de GitHub, Git se iniciará automáticamente 
-para relaizar el seguimiento de los cambios y adminnistrarlos. 
+para relaizar el seguimiento de los cambios y adminnistrarlos.   
+
+### Esta nota es para ver su se actualizaron los datos y comporbarlo tanto en GIt como en Visual Studio   
+
